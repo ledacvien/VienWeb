@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VienWeb", "VienWeb\VienWeb.csproj", "{FDD411AC-6685-4AB1-8B1A-FB7672504EB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDD411AC-6685-4AB1-8B1A-FB7672504EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD411AC-6685-4AB1-8B1A-FB7672504EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD411AC-6685-4AB1-8B1A-FB7672504EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD411AC-6685-4AB1-8B1A-FB7672504EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23491D68-9EA1-460E-B945-A9FE6FF7C222}
+	EndGlobalSection
+EndGlobal
